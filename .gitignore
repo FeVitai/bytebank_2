@@ -30,7 +30,7 @@
 .pub/
 /build/
 .idea/
-.android/
+.android
 .ios/
 .build/
 .metadata
