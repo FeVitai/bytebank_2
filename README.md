@@ -1,5 +1,3 @@
-# alura
-
 A new Bytebank application.
 
 ## Getting Started
